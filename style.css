@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+body{
+    background-color: gainsboro;
+}
+
+h1{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family:sans-serif;
+    font-size: 60px;
+    padding-bottom: 10px;
+    background-color: rgba(101, 101, 98, 0.388);
+}
+
+img{
+    height: 500px;
+    width: 500px;
+    margin: 5px;
+    position: relative;
+}
+
+.info{
+    font-family:sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    width: 100vw;
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+    margin-bottom: 50px;
+}
